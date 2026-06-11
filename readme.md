@@ -1,6 +1,8 @@
 # MRER
 
-MRER
+Mitigating Alignment Bias in Multimodal Sentiment Analysis via Reliability-Aware Fusion and Evidence-Preserving Reconstruction.MRER, a modality reliability-aware evidencerecoverable framework for multimodal sentiment analysis.
+MR-PGF (Modality Reliability-aware Public Gated Fusion): Estimates sample-adaptive modality reliability from public representations and performs gated fusion with anti-collapse regularization, reducing alignment bias toward dominant modalities. 
+ER-DCA (Evidence-Recoverable Decoding and Decision-Consistency Alignment): Constrains decomposed representations to remain reconstructive, semantically faithful, and prediction-consistent, improving the recoverability and usability of compressed evidence.
 
 ## Project Structure
 
